@@ -85,4 +85,4 @@ spec:
   selector:
     app: grafana
   sessionAffinity: None
-  type: ClusterIP
+  type: LoadBalancer
